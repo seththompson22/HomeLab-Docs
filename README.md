@@ -20,12 +20,12 @@ This repo is designed to document:
 ### Hardware
 - [Dell PowerEdge R410](Hardware/R410/README.md) – Server setup, configuration, and troubleshooting.
 
-### Projects
+### Future Projects
 - [Proxmox on R410](Projects/Proxmox-R410/README.md) – Installation, VM and container configuration, networking.
 - [Windows Server VM](Projects/Windows-Server-VM/README.md) – VM setup in Proxmox, role configuration, updates.
 - [Minecraft Server](Projects/Minecraft-Server/README.md) – Deployment, configuration, and troubleshooting.
 
-### Resources
+### Planned Resources
 - [Scripts](Scripts/) – Automation, backups, and maintenance scripts.
 - [Diagrams](Diagrams/) – Rack layouts, network diagrams, VM/container architecture.
 
@@ -39,7 +39,3 @@ The goal of this repository is to maintain **organized, scalable, and referencea
 - A troubleshooting guide for future issues.
 - A platform to track experiments, services, and projects.
 - A professional showcase of hands-on IT skills.
-
----
-
-**Link this repo:** Use it as a single reference for LinkedIn, portfolios, or sharing with peers.
