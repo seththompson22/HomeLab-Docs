@@ -1,0 +1,1 @@
+This is the installation and troubleshooting documentation for the proxmox installation on a Dell PowerEdge R410 Server.

@@ -1,0 +1,1 @@
+This is the troubleshooting, installation, and configuration documentation for the installation of Windows Server on a virtual machine.
