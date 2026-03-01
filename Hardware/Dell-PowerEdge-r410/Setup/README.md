@@ -19,3 +19,7 @@ Once I was through there were some messages that appeared on a screen. Here are 
 
 ![""](./Images/IMG_2973.jpg)
 ![""](./Images/IMG_2974.jpg)
+
+The next step was to enter the system setup and change the controller to RAID configuration mode. However, I was unable to enter the BIOS and encountered a boot loop after each attempt. While I could successfully access iDRAC6, BIOS access was not possible.
+
+These symptoms strongly suggest a dead CMOS battery, which prevents BIOS settings from being retained. As a result, the CMOS battery will need to be replaced.
