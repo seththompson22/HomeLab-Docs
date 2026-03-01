@@ -16,8 +16,8 @@ System intended for RAID configuration and homelab virtualization.
 
 ### 2. Problem
 - On initial power-up, the system displayed a warning indicating a SATA controller mode change from ATA to AHCI.
-- ![""](./Images/IMG_2973.jpg)
-- ![""](./Images/IMG_2974.jpg)
+![""](./Images/incidents-001.jpg)
+![""](./Images/incidents-002.jpg)
 - After confirming the warning, the system entered a repeated boot loop.
 - BIOS access via F2 was not possible, preventing RAID configuration.
 
